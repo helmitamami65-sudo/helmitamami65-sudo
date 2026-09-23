@@ -1,7 +1,7 @@
-# 👋 Halo, Saya Paty Helmy Tamami Lamadira
+# 👋 Hi, I'm Paty Helmy Tamami Lamadira
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/df/c4/76/dfc4760eec79c34a9eac5afd93ddfab1.jpg" alt="Foto Bocchi" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 3px solid #6366f1;">
+  <img src="https://i.pinimg.com/736x/df/c4/76/dfc4760eec79c34a9eac5afd93ddfab1.jpg" alt="Bocchi Photo" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 3px solid #6366f1;">
 </p>
 
 <p align="center">
@@ -10,15 +10,15 @@
 
 ---
 
-## 🚀 Pengantar
+## 🚀 Introduction
 
-Saya adalah seorang **Frontend Developer** yang berfokus pada pembuatan antarmuka pengguna (UI) yang responsif, interaktif, dan berkinerja tinggi. Saya mengombinasikan keahlian desain dari **Figma** dengan fondasi teknis **HTML, CSS, JavaScript, dan React** untuk menghadirkan pengalaman pengguna (*user experience*) yang mulus.
+I am a **Frontend Developer** dedicated to building responsive, interactive, and high-performance user interfaces. I bridge the gap between design and technology by combining design skills in **Figma** with strong technical foundations in **HTML, CSS, JavaScript, and React** to deliver seamless user experiences.
 
-Selain berfokus pada *client-side*, saya juga memiliki pemahaman backend menggunakan **Laravel** dan **MySQL** untuk menangani integrasi data dasar, serta terbiasa memanfaatkan **Git** dalam manajemen versi kode secara terstruktur.
+While my main focus lies on the client side, I also possess a solid understanding of backend development using **Laravel** and **MySQL** for fundamental data integrations, alongside structured version control management using **Git**.
 
 ---
 
-## 🛠️ Tech Stack & Ekosistem
+## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
 
@@ -41,54 +41,54 @@ Selain berfokus pada *client-side*, saya juga memiliki pemahaman backend menggun
 
 ---
 
-## 💡 Filosofi Alur Kerja & Fokus Pengembangan
+## 💡 Development Philosophy & Workflow
 
-Alih-alih sekadar menulis kode, saya berfokus pada kualitas proses pengembangan dari tahap ideasi hingga implementasi:
+Beyond writing code, I prioritize end-to-end quality throughout the development process:
 
 1. **Design-to-Code Precision (Figma to Code):**
-   * Mengintegrasikan elemen visual dari Figma menjadi komponen web yang *pixel-perfect*, adaptif terhadap berbagai ukuran layar (*responsive design*), dan mempertahankan konsistensi sistem desain (*design system*).
+   * Translating Figma mockups into pixel-perfect, responsive web components while maintaining design system consistency.
 
 2. **Component-Driven Architecture (React):**
-   * Mengembangkan aplikasi antarmuka dengan arsitektur berbasis komponen yang dapat digunakan kembali (*reusable components*), rapi, serta mudah dipelihara (*maintainable code*).
+   * Building interface applications with reusable, modular, and maintainable component architectures.
 
 3. **Smooth API & Data Integration:**
-   * Mampu menjembatani komunikasi antara frontend dan backend melalui konsumsi RESTful API, baik yang dibangun dengan Laravel maupun layanan pihak ketiga.
+   * Bridging frontend and backend communication through RESTful API integration, whether powered by Laravel or third-party services.
 
 4. **Performance & Clean Code:**
-   * Menerapkan struktur kode JavaScript yang bersih, memperhatikan efisiensi waktu muat halaman, dan mengelola *state* aplikasi secara optimal.
+   * Applying clean JavaScript practices, optimizing initial page load times, and managing application state efficiently.
 
 5. **Version Control Discipline:**
-   * Terbiasa dengan *workflow* Git, termasuk pengelolaan *branching*, *commit message* yang jelas, dan kolaborasi repositori di GitHub.
+   * Following structured Git workflows, including clear branch management, descriptive commit messages, and collaborative GitHub repository practices.
 
 ---
 
-## 📑 Spesialisasi & Area Keahlian
+## 📑 Specialization & Expertise
 
-* **UI/UX Implementation:** Memastikan transisi antar-halaman berjalan mulus, hierarki visual jelas, dan navigasi ramah pengguna.
-* **Modern Layouting:** Menguasai *Flexbox*, *CSS Grid*, *Media Queries*, dan teknik perancangan web responsif modern.
-* **State Management & Logic:** Menangani data dinamis, *event handling*, dan logika interaksi aplikasi menggunakan JavaScript (ES6+) dan React Hooks.
-* **Basic Fullstack Awareness:** Memahami konsep CRUD, relasi basis data di MySQL, dan *routing* dasar pada Laravel untuk mendukung kolaborasi tim full-stack.
-
----
-
-## 🎯 Fokus Saat Ini
-
-* 🔍 Memperdalam optimasi performa web (*Web Vitals*) dan aksesibilitas (*A11y*).
-* 🧪 Mengeksplorasi lebih jauh praktik arsitektur React modern dan pengujian perangkat lunak (*unit testing*).
-* 🤝 Terbuka untuk diskusi teknis, eksplorasi teknologi baru, dan kolaborasi pengembangan web.
+* **UI/UX Implementation:** Ensuring smooth page transitions, clear visual hierarchy, and intuitive user navigation.
+* **Modern Layouting:** Proficient in Flexbox, CSS Grid, Media Queries, and modern responsive web design techniques.
+* **State Management & Logic:** Handling dynamic data, event handling, and interactive application logic using JavaScript (ES6+) and React Hooks.
+* **Basic Fullstack Awareness:** Understanding CRUD operations, relational database concepts in MySQL, and basic routing in Laravel to support seamless cross-functional team collaboration.
 
 ---
 
-## 📬 Mari Terhubung
+## 🎯 Current Focus
+
+* 🔍 Deepening knowledge in web performance optimization (Core Web Vitals) and Web Accessibility (A11y).
+* 🧪 Exploring modern React architectural patterns and automated software testing (unit testing).
+* 🤝 Open to technical discussions, exploring emerging web technologies, and software development collaborations.
+
+---
+
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:[[EMAIL_ANDA]]">
+  <a href="mailto:youlynnn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="[[LINK_LINKEDIN_ANDA]]" target="_blank">
+  <a href="[[YOUR_LINKEDIN_URL]]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[[LINK_PORTOFOLIO_ANDA]]" target="_blank">
+  <a href="[[YOUR_PORTFOLIO_URL]]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio">
   </a>
 </p>
