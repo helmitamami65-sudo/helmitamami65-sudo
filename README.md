@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Paty Helmy Tamami Lamadira
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/df/c4/76/dfc4760eec79c34a9eac5afd93ddfab1.jpg" alt="Bocchi Photo" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 3px solid #6366f1;">
+  <img src="https://i.pinimg.com/736x/e9/2e/bd/e92ebdec36d3be76c37884bbe9a3b5f3.jpg" alt="Yuh uh" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 3px solid #6366f1;">
 </p>
 
 <p align="center">
